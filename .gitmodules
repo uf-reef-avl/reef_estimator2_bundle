@@ -1,0 +1,21 @@
+[submodule "reef_teleop"]
+	path = reef_teleop
+	url = https://github.com/uf-reef-avl/reef_teleop
+[submodule "reef_control"]
+	path = reef_control
+	url = https://github.com/uf-reef-avl/reef_control
+[submodule "motion_capture_system"]
+	path = motion_capture_system
+	url = https://github.com/uf-reef-avl/motion_capture_system
+[submodule "vo-sim"]
+	path = vo-sim
+	url = https://github.com/uf-reef-avl/vo-sim
+[submodule "reef_msgs"]
+	path = reef_msgs
+	url = https://github.com/uf-reef-avl/reef_msgs
+[submodule "reef_estimator_2"]
+	path = reef_estimator_2
+	url = https://github.com/uf-reef-avl/reef_estimator_2
+[submodule "rosflight"]
+	path = rosflight
+	url = https://github.com/rosflight/rosflight
