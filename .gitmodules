@@ -19,3 +19,6 @@
 [submodule "rosflight"]
 	path = rosflight
 	url = https://github.com/rosflight/rosflight
+[submodule "reef2_truth"]
+	path = reef2_truth
+	url = https://github.com/uf-reef-avl/reef2_truth
