@@ -22,3 +22,9 @@
 [submodule "reef2_truth"]
 	path = reef2_truth
 	url = https://github.com/uf-reef-avl/reef2_truth
+[submodule "realsense-ros"]
+	path = realsense-ros
+	url = https://github.com/uf-reef-avl/realsense-ros/
+[submodule "dvo_slam"]
+	path = dvo_slam
+	url = https://github.com/uf-reef-avl/dvo_slam
