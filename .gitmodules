@@ -25,3 +25,9 @@
 [submodule "dvo_slam"]
 	path = dvo_slam
 	url = https://github.com/uf-reef-avl/dvo_slam
+[submodule "torque_flight"]
+	path = torque_flight
+	url = https://github.com/uf-reef-avl/torque_flight
+[submodule "setpoint_generator"]
+	path = setpoint_generator
+	url = https://github.com/uf-reef-avl/setpoint_generator
